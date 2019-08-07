@@ -1,0 +1,50 @@
+body {
+
+	margin-top: 70px;
+	font-family: "lato";
+}
+.navbar-inverse .navbar-nav>li>a {
+	color: white;
+	
+}
+.navbar-inverse .navbar-brand {
+	color: white;
+}
+
+.jumbotron p {
+	font-size: 15px;
+}
+
+#footer {
+	margin-bottom: 0;
+	background-color: #222;
+	color: white;
+	text-align: center;
+	font-size: 15px;
+}
+
+.marqueetop {
+	color: white;
+	margin-bottom: 20px;
+	text-align: justify;
+}
+
+h3 {
+	color: black;
+	margin-top: 0;
+}
+
+.red {
+	color: red;
+	text-align: justify;
+}
+
+.blue {
+	color: blue;
+	text-align: justify;
+}
+
+.para {
+	text-align: justify;
+
+}
